@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DepartmentStat
+comment0.text=\n\ Stores\ and\ calculates\ statistical\ information\ for\ one\ department\ in\ the\ ER\n
+comment1.params=departmentName
+comment1.target=DepartmentStat(java.lang.String)
+comment2.params=
+comment2.target=double\ getAverageTreatmentTime()
+comment2.text=\n\ Gets\ the\ average\ time\ for\ a\ patient\ to\ be\ treated\n
+comment3.params=
+comment3.target=double\ getAverageWaitingTime()
+comment3.text=\n\ Gets\ the\ average\ time\ that\ a\ patient\ has\ to\ wait\ to\ be\ treated\n
+comment4.params=
+comment4.target=double\ getTotalTreatmentTime()
+comment4.text=\n\ Gets\ the\ total\ time\ spent\ by\ all\ patients\ in\ treatment\n
+comment5.params=
+comment5.target=double\ getTotalWaitTime()
+comment5.text=\n\ Gets\ the\ total\ time\ spent\ by\ all\ patients\ waiting\ for\ treatment\n
+comment6.params=
+comment6.target=int\ getTreatedCount()
+comment6.text=\n\ Gets\ the\ total\ number\ of\ patients\ who\ have\ finished\ treatment\n
+numComments=7

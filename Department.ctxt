@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Department
+comment0.text=\n\ A\ treatment\ Department\ (operating\ theatre,\ X-ray\ room,\ \ ER\ bed,\ Ultrasound,\ etc)\n\ Each\ department\ has\n\ -\ A\ name,\n\ -\ A\ maximum\ number\ of\ patients\ that\ can\ be\ treated\ at\ the\ same\ time\n\ -\ A\ Set\ of\ Patients\ that\ are\ currently\ being\ treated\n\ -\ A\ Queue\ of\ Patients\ waiting\ to\ be\ treated.\n\n\ FOR\ THE\ CORE\ AND\ COMPLETION,\ YOU\ CAN\ COMPLETE\ THE\ METHODS\ HERE,\n\ BUT\ DO\ NOT\ MODIFY\ ANY\ OF\ THE\ CODE\ THAT\ IS\ GIVEN\!\!\!\n
+comment1.params=name\ max
+comment1.target=Department(java.lang.String,\ int)
+comment1.text=\n\ Construct\ a\ new\ Department\ object\n\ Initialise\ the\ waiting\ queue\ and\ the\ current\ Set.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=y
+comment3.target=void\ redraw(double)
+comment3.text=\n\ Draw\ the\ department\:\ the\ patients\ being\ treated\ and\ the\ patients\ waiting\ \n
+numComments=4
